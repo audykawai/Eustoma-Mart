@@ -93,49 +93,52 @@
             <div class="product-card"><img src="data:image/jpeg;base64,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" alt="Sandal"><p><strong>Sandal</strong></p></div>
             <div class="product-card"><img src="data:image/jpeg;base64,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" alt="Sabun Cuci Piring"><p><strong>Sabun Cuci Piring</strong></p></div>
 
-       <div style="clear: both; padding-top:30px;"></div>
-<h2 style="text-align:left; margin-bottom:10px;">Produk Kami</h2>
-       <ul class="product-list" 
-    style="margin-top:10px; 
-           text-align:left; 
-           display:block; 
-           padding-left:20px; 
-           line-height:1.7;">
-            <li>Kartu Ucapan</li>
-            <li>Lem Kertas</li>
-            <li>Stomap</li>
-            <li>Perlak Bayi</li>
-            <li>Mangkuk</li>
-            <li>Cangkir</li>
-            <li>Sarung Tangan</li>
-            <li>Sampo Neril</li>
-            <li>Sampo Pantene</li>
-            <li>Pembersih Jelita</li>
-            <li>Penyegar Jelita</li>
-            <li>Bedak Jelita</li>
-            <li>Alas Bedak Jelita</li>
-            <li>Parfum Volare</li>
-            <li>Roti Sisir Matahari</li>
-            <li>Roti Tawar Francisco</li>
-            <li>Margarin Lezat</li>
-            <li>Margarin Lofat</li>
-            <li>Sari Apel Manalagi</li>
-            <li>Simon Fress</li>
-            <li>Teh Kotak Fren</li>
-        </ul>
+      <div style="width:100%; display:block; margin-left:0;">
 
-        <div style="clear: both; padding-top:30px;"></div>
+    <h2 style="text-align:left; margin-left:20px;">Produk Kami</h2>
 
-<h2 style="text-align:left; margin-bottom:10px;">Informasi Pemesanan</h2>
+    <ul style="margin-top:10px; 
+               text-align:left; 
+               padding-left:40px; 
+               max-width:400px;">
+        <li>Kartu Ucapan</li>
+        <li>Lem Kertas</li>
+        <li>Stomap</li>
+        <li>Perlak Bayi</li>
+        <li>Mangkuk</li>
+        <li>Cangkir</li>
+        <li>Sarung Tangan</li>
+        <li>Sampo Neril</li>
+        <li>Sampo Pantene</li>
+        <li>Pembersih Jelita</li>
+        <li>Penyegar Jelita</li>
+        <li>Bedak Jelita</li>
+        <li>Alas Bedak Jelita</li>
+        <li>Parfum Volare</li>
+        <li>Roti Sisir Matahari</li>
+        <li>Roti Tawar Francisco</li>
+        <li>Margarin Lezat</li>
+        <li>Margarin Lofat</li>
+        <li>Sari Apel Manalagi</li>
+        <li>Simon Fress</li>
+        <li>Teh Kotak Fren</li>
+    </ul>
 
-<p style="text-align:left; margin:0 0 5px 0;">
-    Jika ingin melakukan pemesanan, Anda dapat langsung menghubungi kami melalui email:  
-    <strong>eustoma@bisnis.ukwms.ac.id</strong>.
-</p>
+    <div style="margin-top:30px;"></div>
 
-<p style="text-align:left; margin-top:5px;">
-    Atau kunjungi alamat kami: <strong>Jalan Garuda 50, Surabaya</strong>.
-</p>
+    <h2 style="text-align:left; margin-left:20px;">Informasi Pemesanan</h2>
+
+    <p style="text-align:left; margin-left:20px;">
+        Jika ingin melakukan pemesanan, Anda dapat langsung menghubungi kami melalui email:
+        <strong>eustoma@bisnis.ukwms.ac.id</strong>.
+    </p>
+
+    <p style="text-align:left; margin-left:20px;">
+        Atau mengunjungi alamat kami di <strong>Jalan Garuda 50, Surabaya</strong>.
+    </p>
+
+</div>
+
         <h2>Hubungi Kami</h2>
         <p class="info">Instagram: <strong>@eustomamart</strong></p>
         <p class="info">Email: <strong>eustoma@bisnis.ukwms.ac.id</strong></p>
